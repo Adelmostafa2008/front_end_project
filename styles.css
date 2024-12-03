@@ -36,14 +36,33 @@ h2{
    background-color: pink; 
    color: black;
    border-radius: 5px;
+border: 1px solid black;
+    margin-top: 3px;
 }
 
 footer {
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 100%;
-    height: 60px;
+    height: 30px;
     background-color: rgb(50, 50, 50);
     color: white;
     text-align: center;
+    margin-top: 5px;
+}
+
+.proplem{
+    text-align: center;
+}
+
+.in{
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.inn{
+    border-radius: 5px;
+        border: 1px solid black;
+    height: 40px;
 }
