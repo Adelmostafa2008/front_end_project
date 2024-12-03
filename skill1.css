@@ -6,11 +6,12 @@
 }
 
 .div {
-    background-color: #77a2d7;
+    background-color: #9dc4f3;
     color: white;
     padding: 10px 0;
     text-align: center;
     border-radius: 5px;
+    
 }
 .header{
     color: rgb(255, 255, 255);
@@ -38,4 +39,26 @@ footer {
     text-align: center;
     margin-top: 20px;
     color: #777;
+}
+   .image-container {
+    text-align: center;
+    margin: 20px 0; 
+}
+
+footer {
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f1f1f1; 
+}
+.body-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
