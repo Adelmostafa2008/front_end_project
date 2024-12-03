@@ -1,0 +1,53 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #d1c0c3;
+}
+
+.All {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+   
+}
+
+.header {
+    text-align: center;
+    background-color: #7d83c5;
+    padding: 20px;
+    color: #fff;
+}
+
+.content {
+    text-align: center;
+    padding: 20px;
+}
+
+.skills {
+    display: flex;
+    justify-content: center;
+}
+
+.skill {
+    padding: 10px 20px;
+    margin: 0 5px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 60%;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.skill:hover {
+    background-color: #2980b9;
+}
+
+.dwarha {
+    border-radius: 60%;
+}
